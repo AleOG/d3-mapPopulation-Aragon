@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.ccaa {
+  stroke-width: 1;
+  stroke: darkslategrey;
+  fill: white;
+  transition: all 0.25s ease-in-out;
+}
+
+.ccaa:hover {
+  cursor: pointer;
+  fill: #0000FF !important;
+}
